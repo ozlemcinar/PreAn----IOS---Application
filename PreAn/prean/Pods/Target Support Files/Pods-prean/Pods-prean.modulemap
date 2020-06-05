@@ -1,0 +1,6 @@
+framework module Pods_prean {
+  umbrella header "Pods-prean-umbrella.h"
+
+  export *
+  module * { export * }
+}
